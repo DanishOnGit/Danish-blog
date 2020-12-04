@@ -3,7 +3,7 @@ module.exports = {
     title: `Writing for Beginners`,
     author: {
       name: `Danish Ahmed`,
-      summary: `who lives in India and is insterested in web development.`
+      summary: `who lives in India and is interested in Web Development.`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://danishahmedblogs.netlify.app/`,
